@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VCyC7Em24Ddg/JOoQ3uEwfTMIP2hobTg/9e8xygA1EoHJCUlk9fRd50BA82Fsg/jbMIgzWgFTaeRlkpMo3VQBg==",
+  "dgSpecHash": "rmdlhx9XDu/DiH3x3c5vDLKYtl59nvYKm5dKe7RCJLTXBqbDPWbDNZpJJiV/WZdaFI+GMLt25aKiwPbA4AHoTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\hhp\\Desktop\\DOTNET\\exam\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

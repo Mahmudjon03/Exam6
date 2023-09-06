@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj": {}
+    "C:\\Users\\hhp\\Desktop\\DOTNET\\exam\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj": {
+    "C:\\Users\\hhp\\Desktop\\DOTNET\\exam\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hhp\\Desktop\\DOTNET\\exam\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\hhp\\Desktop\\DOTNET\\exam\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\hhp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\hhp\\Desktop\\DOTNET\\exam\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hhp\\AppData\\Roaming\\NuGet\\NuGet.Config",

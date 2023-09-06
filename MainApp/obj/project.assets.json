@@ -193,11 +193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\mainapp\\MainApp.csproj",
+      "projectUniqueName": "c:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\MainApp\\MainApp.csproj",
       "projectName": "MainApp",
-      "projectPath": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\mainapp\\MainApp.csproj",
+      "projectPath": "c:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\MainApp\\MainApp.csproj",
       "packagesPath": "C:\\Users\\hhp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\mainapp\\obj\\",
+      "outputPath": "c:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\MainApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hhp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,11 +214,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj"
+            "c:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Infracstructure\\Infracstructure.csproj": {
-              "projectPath": "C:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Infracstructure\\Infracstructure.csproj"
+            "c:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Infracstructure\\Infracstructure.csproj": {
+              "projectPath": "c:\\Users\\hhp\\Desktop\\DOTNET\\Exam\\Infracstructure\\Infracstructure.csproj"
             }
           }
         }

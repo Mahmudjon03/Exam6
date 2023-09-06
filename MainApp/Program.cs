@@ -78,7 +78,7 @@ while (true)
             {
                 int t;
                 t = Convert.ToInt32(Console.ReadLine());
-                var k = St.GEtById(t);
+                var k = St.GEtStudentById(t);
                 System.Console.WriteLine($"{k.id}       {k.first_name}       {k.last_name}        {k.phone}        {k.group_id}");
 
             }
